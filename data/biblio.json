@@ -131,7 +131,14 @@
 				"family": "Leman",
 				"given": "Marc"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
 	},
 	{
 		"id": "http://zotero.org/groups/6200755/items/AHQMNLDY",
@@ -3127,7 +3134,6 @@
 		"ISSN": "1872-9126",
 		"journalAbbreviation": "Appl Ergon",
 		"language": "eng",
-		"note": "PMID: 32174367",
 		"page": "103079",
 		"source": "PubMed",
 		"title": "Environmental information for people with visual impairment in Mexico - or what they need and how they use it",
@@ -7652,6 +7658,36 @@
 			"date-parts": [
 				[
 					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/6200755/items/ZU83VSZE",
+		"type": "book",
+		"call-number": "617.03",
+		"collection-title": "Méthodes, techniques et outils d'intervention",
+		"event-place": "Paris",
+		"ISBN": "978-2-35327-267-9",
+		"language": "fr",
+		"publisher": "De Boeck-Solal",
+		"publisher-place": "Paris",
+		"source": "BnF ISBN",
+		"title": "Guide pratique de recherche en réadaptation",
+		"author": [
+			{
+				"family": "Tétreault",
+				"given": "Sylvie"
+			},
+			{
+				"family": "Guillez",
+				"given": "Pascal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
 				]
 			]
 		}
